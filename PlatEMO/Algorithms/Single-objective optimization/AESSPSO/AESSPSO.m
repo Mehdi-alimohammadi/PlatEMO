@@ -1,8 +1,8 @@
 classdef AESSPSO < ALGORITHM
 % <2025> <single> <real/integer> <large/none> <constrained/none>
 % Adaptive exploration state-space particle swarm optimization
-% Beta  --- 2.05 --- Inertia weight
-% Gamma --- 2.05 --- Inertia weight
+% Beta  --- 2.05 --- Cognitive parameter
+% Gamma --- 2.05 --- Social parameter
 
 %------------------------------- Reference --------------------------------
 % M. Alimohammadi and T. M. R. Akbarzadeh. State-space adaptive exploration
